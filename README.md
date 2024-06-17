@@ -33,6 +33,6 @@ As a part of the assignment, this project supports the following functionalities
 
 ## Related Documents
 * [API Documentation](https://docs.google.com/document/d/16TmXNqMqiuNNwG_d8q408RiMK7Fq_66ISoZT2zHLrAA/edit)
-* [Low Level Design]()
+* [Low Level Design](https://drive.google.com/file/d/1q43ABHGAPAdJwt27mrazARhNgw4rCC4_/view?usp=sharing)
 * [Postaman workspace](https://app.getpostman.com/join-team?invite_code=876ddcc98e91cc70464692c0acfdb1ee&target_code=8323c7b749589cd7007dbba70a1963ad)
 * [Database Schema Explanation](https://drive.google.com/file/d/1ne6pdzPEPrULewQ3RRthcJOq5ZeAbeKP/view?usp=sharing)
